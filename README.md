@@ -15,7 +15,7 @@
 
 - 👨‍💻 Know more about me <b><a href="https://Nehaswain2002.github.io" target="_blank" rel="noopener noreferrer">Portfolio</a></b>
 
- •📄 Check out my <b><a href="https://drive.google.com/file/d/1m3s08EUctgjY3S4xVi7f_wJNMu_io_yb/view?usp=share_link" target="_blank" rel="noopener noreferrer">Resume</a></b>
+ •📄 Check out my <b><a href="#" target="_blank" rel="noopener noreferrer">Resume</a></b>
 
    
 
