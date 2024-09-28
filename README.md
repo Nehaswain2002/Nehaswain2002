@@ -10,15 +10,18 @@
 
 - 🏢 I’m looking forward to work as a *Full Stack Web Developer*
 - 💬 Ask me about *HTML, CSS, JavaScript, TypeScript, React, Redux-Toolkit, Node, Express, MongoDB, Java,C,PhotoShop *
-- 📧 How to reach me <b>*nehaswain7@gmail.com*</b>
+- 📧 How to reach me <b>*nehaswain7@gmail.com*</b><br>
+
+
 - 👨‍💻 Know more about me <b><a href="https://Nehaswain2002.github.io" target="_blank" rel="noopener noreferrer">Portfolio</a></b>
-<!---- 📄 Check out my <b><a href="https://drive.google.com/file/d/1m3s08EUctgjY3S4xVi7f_wJNMu_io_yb/view?usp=share_link" target="_blank" rel="noopener noreferrer">Resume</a></b>--->
+
+ •📄 Check out my <b><a href="https://drive.google.com/file/d/1m3s08EUctgjY3S4xVi7f_wJNMu_io_yb/view?usp=share_link" target="_blank" rel="noopener noreferrer">Resume</a></b>
 
    
 
 ##  Connect with me
 <!----[![Portfolio](https://img.shields.io/badge/-Porfolio-000?style=flat&logo=🔭&logoColor=white)](https://Nehaswain2002.github.io/)--->
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/Neha Swain-932b13308/)
+![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:nehaswain7@gmail.com)
 
 
